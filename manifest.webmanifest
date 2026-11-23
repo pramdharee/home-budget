@@ -1,0 +1,24 @@
+{
+  "name": "Home Budget \u2014 Family Offline",
+  "short_name": "Home Budget",
+  "description": "Private, offline-first household finance tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1728",
+  "theme_color": "#101c30",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
